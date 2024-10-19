@@ -1,0 +1,18 @@
+List<String> cityList = [
+  'Karachi',
+  'Islamabad',
+  'Lahore',
+  'Quetta',
+  'London',
+  'New York',
+  'Manchester',
+  'Sydney',
+  'Melbourne',
+  'Mumbai',
+  'Delhi',
+  'Dhaka',
+  'Kabul',
+  'Baku',
+  'Moscow',
+  'Madrid',
+];
